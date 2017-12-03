@@ -1,6 +1,6 @@
 ![Alt text](https://github.com/JordanMicahBennett/Artificial-neural-networks-for-kids/blob/master/_image_i.png "default page")
 
-Artificial neural networks for kids
+ARTIFICIAL NEURAL NETWORKS FOR KIDS
 ============================================
 
 “This book is for both ‘kids’, and experts! (This feat was not easy to pull off)
