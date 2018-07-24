@@ -7,9 +7,10 @@ This short book contains what is probably the easiest, most intuitive fun tutori
 
 This short book is a chance to understand the whole structure of an elementary, but powerful artificial neural network, just as well as you understand how to write your name.”
 
-JORDAN'S INTUITIVE VISUALIZATION OF BACK-PROGPAGATION ALGORITHM (FROM PAPER)
+INTUITIVE VISUALIZATION OF BACK-PROGPAGATION ALGORITHM (FROM PAPER)
 ============================================
 ![Alt text](https://github.com/JordanMicahBennett/Artificial-neural-networks-for-kids/blob/master/_image_ii.png "default page")
+The large back-propagation diagram above was created by Jordan Micah Bennett, using Microsoft Paint.
 
 
 RESEARCH GATE PAPER
