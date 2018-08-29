@@ -9,7 +9,7 @@ This short book is a chance to understand the whole structure of an elementary, 
 
 INTUITIVE VISUALIZATION OF BACK-PROGPAGATION ALGORITHM (FROM PAPER)
 ============================================
-![Alt text](https://github.com/JordanMicahBennett/Artificial-neural-networks-for-kids/blob/master/_image_ii.png "default page")
+![Alt text](https://github.com/JordanMicahBennett/Artificial-neural-networks-for-kids/blob/master/_image_ii_v2.png "default page")
 The large back-propagation diagram above was created by Jordan Micah Bennett, using Microsoft Paint.
 
 
